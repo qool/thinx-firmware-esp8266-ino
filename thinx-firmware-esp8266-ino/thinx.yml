@@ -1,5 +1,5 @@
 arduino:
-  platform: esp8266com
+  platform: espressif
   arch: esp8266
   board: d1_mini
   flash_ld: eagle.flash.4m1m.ld
